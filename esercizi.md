@@ -77,7 +77,7 @@ numero tra 1, 2 o 3 rappresentante la scelta dell'operazione da effettuare sui
 2. Scrivere un programma che preso in input un valore $n$, stampi a video la
 somma di tutti i numeri da 0 a $n$ ($0 + 1 + 2 + \dots + n$)
 3. Scrivere un programma che preso in input un valore $n$, stampi a video la
-sua tabella moltiplicativa (es. con $n = 5$)
+sua tabella moltiplicativa (es. di output con $n = 5$)
 
 ```
 		5 x 1 = 5
